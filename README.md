@@ -1,7 +1,4 @@
-
-Here’s a custom README tailored for your travel packing list project based on the code you shared earlier:
-
-🏝️ Far Away Packing List
+🏝️ Travel List
 Description
 Far Away Packing List is a React-based application designed to help users plan and organize their trips. It allows users to add items, specify quantities, toggle their packing status, and clear their packing list. With a clean and intuitive interface, it makes trip preparation easier and stress-free.
 
